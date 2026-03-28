@@ -90,14 +90,14 @@ Understand the company's webview architecture (Next.js App Router + Bulletproof 
 
 ## Progress
 
-> Total: 3/22 done (14%) | Current: Phase 1-4 Destructuring & Spread
+> Total: 4/22 done (18%) | Current: Phase 2-1 JSX & Components
 
 | Phase | Topic | Status |
 |-------|-------|--------|
 | 1-1 | Type System Basics | done (notes/phase1-1-type-system-basics.md) |
 | 1-2 | Functions & Async | done (notes/phase1-2-functions-and-async.md) |
 | 1-3 | Module System & import/export | done (notes/phase1-3-module-system.md) |
-| 1-4 | Destructuring & Spread | - |
+| 1-4 | Destructuring & Spread | done (notes/phase1-4-destructuring-and-spread.md) |
 | 2-1 | JSX & Components | - |
 | 2-2 | Props & Children | - |
 | 2-3 | useState & useEffect | - |
